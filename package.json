@@ -1,0 +1,28 @@
+{
+  "name": "theme-color-getter",
+  "version": "0.0.1",
+  "description": "a pulgin for getting the theme color of a picture",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/geekingin/theme-color-getter.git"
+  },
+  "keywords": [
+    "theme",
+    "color",
+    "getter",
+    "picker"
+  ],
+  "author": "Jeff Jing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/geekingin/theme-color-getter/issues"
+  },
+  "homepage": "https://github.com/geekingin/theme-color-getter",
+  "devDependencies": {
+    "gulp": "^3.8.11"
+  }
+}
